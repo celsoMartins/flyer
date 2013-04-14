@@ -1,0 +1,4 @@
+The goal is to provide a simple way to get the price of specific flights.
+After a quickly registration, the user provides the flight information
+(date, origin and destiny) and the system will search on airline companies
+and send an email when a smaller price is found.
